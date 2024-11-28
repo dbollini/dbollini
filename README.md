@@ -2,8 +2,7 @@
 
 # Diego Bollini
 
-Este es mi perfil laboral como parte del equipo de [Adhoc](adhoc.com.ar), con el rol de SRE, empezando a involucrarme y aplicando DevOps en el desarrollo e implementación de [Odoo](https://odoo.com) tanto internamente como para los más de 150 clientes de la empresa.  
-Mi modo personal puede verse en este [perfil](https://github.com/diegobollini).
+Team Leader Infraestructura y Devops en [Adhoc](adhoc.com.ar)
 
 ## Lenguajes y tecnologías
 
