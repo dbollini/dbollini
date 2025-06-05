@@ -23,4 +23,3 @@ Team Leader Infraestructura y Devops en [Adhoc](adhoc.com.ar)
 
 [![Gitlab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/diegobollini)](https://gitlab.com/diegobollini)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/diegobollini/)](https://www.linkedin.com/in/diegobollini/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/diegobollini)](https://twitter.com/diegobollini)
